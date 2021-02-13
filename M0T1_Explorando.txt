@@ -1,0 +1,9 @@
+Se pueden encontrar proyectos, trabajos, archivos, cursos, documentación
+relacionado con el desarrollo de software.
+
+Pueden ser:
+
+Públicos: donde cualquier persona puede hacer mejoras al código y es gratis el alojamiento.
+
+Privado: en donde solo los integrantes del proyecto pueden hacer cambios al código,
+      en este caso se tendría que pagar.
