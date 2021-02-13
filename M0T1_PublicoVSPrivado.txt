@@ -1,0 +1,2 @@
+Al crear un repostorio privado solo las personas que esten agregadas al proyecto
+podrán visualizar el contenido, en caso contrario les marca error.
